@@ -1,0 +1,22 @@
+{
+  "catatan": "Semua nilai adalah asumsi simulasi, bukan data lapangan.",
+  "ukuran_grid": [
+    30,
+    30
+  ],
+  "seed": 2026,
+  "radius_sensor_r": 2,
+  "radius_relai_R": 8,
+  "kapasitas_relai_N": 10,
+  "jarak_minimum_antarsensor": 2,
+  "biaya_sensor_cs": 1,
+  "biaya_relai_cr": 5,
+  "anggaran_B": [
+    30,
+    60,
+    90,
+    120
+  ],
+  "jarak": "euclid antar pusat sel, dalam satuan sel",
+  "satuan_biaya": "satuan relatif"
+}
